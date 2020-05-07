@@ -267,18 +267,18 @@
     background-color: #295ed9;
 }
 .stats p{
-    font-family:'DaunPenh, sans-serif';
+    font-family:'DaunPenh';
     font-size: 23px;
     font-weight: 500;
     line-height: 20px;
     text-align: center;
 }
 .stats .number{
-    font-size: 85px;
+    font-size: 65px;
     text-align: center;
 }
 .stats .monthly {
-    font-family:'DaunPenh,sans-serif';
+    font-family:'DaunPenh';
     font-size: 25px;
     color: greenyellow;
     font-weight: bold;
